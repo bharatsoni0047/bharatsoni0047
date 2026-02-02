@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 align="center">I'm Bharat Kumar Soni</h1>
 🔭 I’m currently working on Agentic GenAI systems<br>👯 Looking to collaborate on AI agents & RAG<br>🤝 Looking for help with GenAI deployment scale<br>🌱 Currently learning Agentic AI<br>💬 Ask me about LLMs, RAG, AI agents<br>⚡ Fun fact: I love agentic systems
 
 
@@ -12,7 +12,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=bharatsoni0047&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bharatsoni0047&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=bharatsoni0047&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=bharatsoni0047&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=bharatsoni0047&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
